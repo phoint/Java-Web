@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jlink" name="Tomcat">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="root" />
+  </artifact>
+</component>
