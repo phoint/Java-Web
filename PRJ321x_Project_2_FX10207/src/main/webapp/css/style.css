@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+header {
+	background-color: #155263;
+}
+
+header .bottom-navbar {
+	background-color: #053643;
+}
+
+footer .large-block {
+	background-color: #053643;
+	border-top: solid 3px #ff9a3c;
+}
+
+footer .small-block {
+	background-color: #155263;
+	color: #ffc93c;
+}
+
+footer .small-block a {
+	color: #ffc93c;
+	text-decoration: none;
+}
+
+footer .small-block a:hover {
+	color: #ff9a3c;
+}
+
+.login-modal {
+ 	top: 30%;
+ 	z-index: 99;
+}
+
+.login-modal .login-box {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.home-body {
+	background-image: url("../images/asm2-body-image.jpg");
+	background-size: cover;
+	height: 700px;
+}
